@@ -1,3 +1,3 @@
 # Intro
-+ this project serves as a webpage for multiple overlay projects
++ this project serves as a webpage for multiple overlay projects and uh .... showcases? heck who knows LUL
 + to be continued ...
